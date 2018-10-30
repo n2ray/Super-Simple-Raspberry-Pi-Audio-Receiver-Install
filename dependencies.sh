@@ -10,7 +10,7 @@ VOLUMIO_DEPS="bluez bluez-firmware libusb-dev libdbus-1-dev libglib2.0-dev libud
 
 AP_DEPS="hostapd isc-dhcp-server"
 
-AIRPLAY_DEPS="build-essential git autoconf automake libtool libdaemon-dev libasound2-dev libpopt-dev libconfig-dev avahi-daemon libavahi-client-dev libssl-dev libpolarssl-dev libsoxr-dev"
+AIRPLAY_DEPS="build-essential git autoconf automake libtool libdaemon-dev libasound2-dev libpopt-dev libconfig-dev avahi-daemon libavahi-client-dev libssl-dev libsoxr-dev"
 
 KODI_DEPS="kodi"
 
